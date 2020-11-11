@@ -25,6 +25,10 @@ public class About extends AppCompatActivity {
         MainActivity.redirectActivity(this, MainActivity.class);
     }
 
+    public void ClickHome(View v){
+        MainActivity.redirectActivity(this, MainActivity.class);
+    }
+
     public void ClickPackage(View v){
         MainActivity.redirectActivity(this, Package.class);
     }
