@@ -12,7 +12,7 @@ public class About extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.package_main);
+        setContentView(R.layout.about_main);
 
         drawerLayout = findViewById(R.id.drawer_layout);
     }
