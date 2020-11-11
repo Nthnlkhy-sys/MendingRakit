@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "853107854782",
+    "firebase_url": "https://mendingrakit-7b401.firebaseio.com",
+    "project_id": "mendingrakit-7b401",
+    "storage_bucket": "mendingrakit-7b401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853107854782:android:0c1c0ecf7bb31de747fdef",
+        "android_client_info": {
+          "package_name": "com.mendingrakit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853107854782-9igjoo5mobjpipvbvofd16s4oin867t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe464d3iQs8QN6Ly29ghyOKtewnI922qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853107854782-9igjoo5mobjpipvbvofd16s4oin867t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
