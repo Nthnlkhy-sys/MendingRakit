@@ -29,8 +29,12 @@
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
+
+        <activity android:name=".About"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".Package"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
     </application>
 
 </manifest>
